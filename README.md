@@ -1,7 +1,13 @@
+
+Local Hack Day : Build(2022)
+
+DAY2:
+
 # Getting Started with the project
 
-This project is created by Gajendra Pal.
-This is  a weather web app in react.It uses open weather API to fetch current data and display them in the form of cards on the webpage.I also integrated voice commands in it with the help of "Alan AI". Alan is a complete Voice AI Platform that lets you embed a contextual voice assistant into your existing application UI.
+This project is created by Gajendra Pal and Deepak Pal.
+Day1: This is  a weather web app in react.It uses open weather API to fetch current data and display them in the form of cards on the webpage.I also integrated voice commands in it with the help of "Alan AI". Alan is a complete Voice AI Platform that lets you embed a contextual voice assistant into your existing application UI.
+Day2: We have added the drive facility like Google drive storage to facilitate user to store their data on the firestore.
 
 
 
